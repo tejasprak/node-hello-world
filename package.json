@@ -1,0 +1,7 @@
+{
+  "name": "code-in-hello-world",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "author": "Tejas Prakash <tejasprak@gmail.com>"
+}
